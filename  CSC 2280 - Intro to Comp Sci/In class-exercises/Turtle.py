@@ -71,7 +71,7 @@ def arc(t, radius, angle):
     
 
 t.fd(200)
-arc(t, 130, 180)
+arc(t, 130, 90)
 
 
 
