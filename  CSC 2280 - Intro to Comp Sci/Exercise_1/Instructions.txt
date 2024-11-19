@@ -1,0 +1,5 @@
+In here, I will write all the steps that took me to complete this project
+As well, as the code will include comments summarizing what the code does!
+
+
+
