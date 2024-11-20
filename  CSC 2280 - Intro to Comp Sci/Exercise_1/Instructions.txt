@@ -1,5 +1,14 @@
 In here, I will write all the steps that took me to complete this project
 As well, as the code will include comments summarizing what the code does!
 
+Instructions;
+1. Install the required packages; python tcl-tk
+2. 
+Using Tkinter, create an application that convert temperature from Fahrenheit to Celsius. 
+GUI of the application should be similar to the below.
 
+User enter temperature in Fahrenheit in the left and click a button. 
+Temperature in Celsius will be displayed on the right.
+
+Submit source code and a video showing your application in action.
 
