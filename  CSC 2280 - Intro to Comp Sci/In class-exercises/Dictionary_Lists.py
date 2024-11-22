@@ -8,7 +8,7 @@ question_ans_dict = {
 
 score = 0
 questions = list(question_ans_dict.keys())
-'''
+
 i = 1
 while True:
     question = random.choice(questions)
@@ -50,4 +50,3 @@ for i in range(10):
         print(f'Correct Answer: {right_answer}')
         print(f'Incorrect Answer! Your score is {score}')
         print('------------------')
-'''
