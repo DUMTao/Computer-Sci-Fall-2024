@@ -1,3 +1,5 @@
+# Hello! This is my simple python program that uses tkier for temperature conversion!
+
 import os
 import tkinter as tk
 
