@@ -1,0 +1,13 @@
+In here, I will write down the necessary steps in order for me to be able to complete project 2
+As well, stay on track instead of having to alt tab every time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Goal: Visualize data using pandas and matplotlib
+
+Step 1: Download james_bond_data_cleansed.csv from Canvas and save it in a folder on your
+computer (e.g. CSC2280 Project 2)
+
+Step 2: Create a jupyter notebook in VSCode. Save the notebook in the same folder in Step 1.
+
+Step 3: Import pandas and matplotlib and use pd.read_csv() to read from the
+james_bond_data_cleansed.csv file
